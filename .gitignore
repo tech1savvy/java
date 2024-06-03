@@ -1,0 +1,14 @@
+.idea
+
+replit.nix
+.replit
+.breakpoints
+
+java-box.iml
+
+*.class
+
+.vscode
+
+input.txt
+output.txt
